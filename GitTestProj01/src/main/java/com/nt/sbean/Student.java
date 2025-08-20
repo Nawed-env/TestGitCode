@@ -5,6 +5,8 @@ public class Student {
 		System.out.println("Adding a new Student !!!");
 		//add new 
 	}
-	
-	
+
+	public void addStudentDelete() {
+		System.out.println("Delete a Student !!!");
+	}
 }
